@@ -1,0 +1,15 @@
+{
+  "user": {
+    "name": "donald"
+  },
+  "pets": [
+    {
+      "name": "Max",
+      "type": "cat"
+    },
+    {
+      "name": "Pincher",
+      "type": "dog"
+    }
+  ]
+}
